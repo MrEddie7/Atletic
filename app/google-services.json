@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275574977522",
+    "project_id": "atletic-4ceb9",
+    "storage_bucket": "atletic-4ceb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275574977522:android:9ecde6ab114f27388e716b",
+        "android_client_info": {
+          "package_name": "com.eddie.atletic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDotWUFlpFII4CVwodPYxnUasIWcQfccOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275574977522:android:4fca2dd42439281d8e716b",
+        "android_client_info": {
+          "package_name": "com.example.atletic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDotWUFlpFII4CVwodPYxnUasIWcQfccOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
